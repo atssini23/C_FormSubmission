@@ -1,1 +1,2 @@
-# C_FormSubmission
+Validating Form Submission
+We need to apply the concepts of Models and Model validations that we learned from the past two tabs. Make a small app that runs validations on a variety of form fields. Use Data Annotations and Models to generate your error messages. Errors should be rendered for each field that submits invalid data. This app is a similar process to that of Dojo Survey just making sure to focus in on these new concepts!
